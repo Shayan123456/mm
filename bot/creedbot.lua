@@ -231,6 +231,10 @@ function create_config( )
     "sms",
     "anti_spam",
     "add_bot",
+    "time",
+    "addplugins",
+    "lockchat",
+    "quran",
     "owners",
     "set",
     "get",
@@ -240,7 +244,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {172178919},--Sudo users
+    sudo_users = {87160007},--Sudo users
     disabled_chann144152859els = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
